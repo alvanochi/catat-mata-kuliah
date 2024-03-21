@@ -1,8 +1,13 @@
-# React + Vite
+### Catatan Jadwal Mata Kuliah dan Pertemuan
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyek ini dibangun menggunakan React bersama TailwindCSS untuk styling, Firebase digunakan sebagai platform untuk menyimpan data dan otentikasi pengguna, dan menggunakan Struktur Folder Atomic Design.
 
-Currently, two official plugins are available:
+### Fitur Utama
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- <strong>TailwindCSS Styling:</strong> Menerapkan desain yang modern dan responsif menggunakan TailwindCSS.
+- <strong>Firebase Realtime Database:</strong> Menggunakan Firebase untuk menyimpan data secara realtime, memungkinkan aplikasi untuk tetap sinkron dan terhubung secara langsung dengan pengguna.
+- <strong>Firebase Authentication:</strong> Memanfaatkan Firebase Auth untuk manajemen otentikasi pengguna, memastikan keamanan dan akses terhadap fitur aplikasi.
+
+### Sumber Referensi Design
+
+Desain proyek ini terinspirasi dari tata letak dan elemen desain yang ditemukan di <strong>Notion.</strong>
