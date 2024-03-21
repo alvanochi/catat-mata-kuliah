@@ -1,0 +1,24 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/"
+    },
+    {
+      "src": "/daftar",
+      "dest": "/daftar"
+    },
+    {
+      "src": "/masuk",
+      "dest": "/masuk"
+    },
+    {
+      "src": "/matkul",
+      "dest": "/matkul"
+    },
+    {
+      "src": "/matkul/:matkulID",
+      "dest": "/"
+    }
+  ]
+}
